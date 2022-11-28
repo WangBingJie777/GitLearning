@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="drugsys3:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="87c5c780-c6de-467c-8ba9-22b0e551daf9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="D:\maven-3.8.6\apache-maven-3.8.6\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="17" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="2DpEeX31FdYiX6nYs5Ef97xOMmG" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/desttop/java-swing-master/java-swing-master/学生选课管理系统&quot;,
+    &quot;nodejs.protractor.protractor_package&quot;: &quot;&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.build&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\drugsys3\web\static\img" />
+      <recent name="D:\IDEAWorkSpace\drugsys3\web\pages" />
+      <recent name="D:\IDEAWorkSpace\drugsys3\src\dao" />
+      <recent name="D:\IDEAWorkSpace\drugsys3\web\pages\manager" />
+      <recent name="D:\IDEAWorkSpace\drugsys3\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEAWorkSpace\drugsys3\web\pages\manager" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="servlet" />
+      <recent name="service" />
+      <recent name="bean" />
+      <recent name="dao.impl" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.drugsys3">
+    <configuration name="testClass.tesAddUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drugsys3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.testClass" />
+      <option name="METHOD_NAME" value="tesAddUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testClass.testSelectByName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="drugsys3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.testClass" />
+      <option name="METHOD_NAME" value="testSelectByName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JarApplication">
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSProfilingRunConfigurationExtension">
+        <profiling log-folder="D:\IntelliJ IDEA 2022.2.1\jbr\bin\." />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="SwaggerCodegen">
+      <option name="activeConfigurationType" value="FILE" />
+      <option name="configurationPath" value="" />
+      <option name="customJreEnabled" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="enableDebugLogging" value="false" />
+      <option name="generateToPath" value="" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorPath" value="" />
+      <option name="jdkPath" value="Default" />
+      <option name="language" value="" />
+      <option name="specificationPath" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="drugsys3" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.0.501" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="drugsys3:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/drugsys3" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="9a6ff802-58e6-40a1-827b-31750c14c919" />
+        <option name="JNDI_PORT" value="1096" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="3930" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="drugsys3:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.testClass.tesAddUser" />
+        <item itemvalue="JUnit.testClass.testSelectByName" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="87c5c780-c6de-467c-8ba9-22b0e551daf9" name="Changes" comment="" />
+      <created>1661387723998</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661387723998</updated>
+      <workItem from="1661387725286" duration="1897000" />
+      <workItem from="1661392432396" duration="6011000" />
+      <workItem from="1661405484277" duration="3672000" />
+      <workItem from="1661422740397" duration="10046000" />
+      <workItem from="1661473803115" duration="5864000" />
+      <workItem from="1661480040841" duration="2378000" />
+      <workItem from="1661494700231" duration="12550000" />
+      <workItem from="1661519400076" duration="9066000" />
+      <workItem from="1661560952049" duration="9664000" />
+      <workItem from="1661588514282" duration="17093000" />
+      <workItem from="1661644797558" duration="6848000" />
+      <workItem from="1661652572754" duration="6377000" />
+      <workItem from="1661671850668" duration="1560000" />
+      <workItem from="1661673617167" duration="16608000" />
+      <workItem from="1661732100845" duration="5785000" />
+      <workItem from="1661738218447" duration="4931000" />
+      <workItem from="1661750781736" duration="11128000" />
+      <workItem from="1661847705413" duration="1605000" />
+      <workItem from="1661856954002" duration="2428000" />
+      <workItem from="1661866473768" duration="5244000" />
+      <workItem from="1661906396699" duration="7297000" />
+      <workItem from="1661917600313" duration="2883000" />
+      <workItem from="1661927796337" duration="1327000" />
+      <workItem from="1661929157490" duration="10629000" />
+      <workItem from="1661991357859" duration="8550000" />
+      <workItem from="1662017233967" duration="4159000" />
+      <workItem from="1662023058437" duration="214000" />
+      <workItem from="1662035208905" duration="4140000" />
+      <workItem from="1662041970179" duration="1004000" />
+      <workItem from="1662076552212" duration="2116000" />
+      <workItem from="1662094346849" duration="1693000" />
+      <workItem from="1662123145052" duration="23000" />
+      <workItem from="1662178123242" duration="3716000" />
+      <workItem from="1662186496276" duration="4428000" />
+      <workItem from="1662360285928" duration="660000" />
+      <workItem from="1662381127041" duration="837000" />
+      <workItem from="1662383546420" duration="1051000" />
+      <workItem from="1662388199905" duration="478000" />
+      <workItem from="1662445722589" duration="17000" />
+      <workItem from="1662636957831" duration="606000" />
+      <workItem from="1662855249638" duration="22000" />
+      <workItem from="1663213913311" duration="34000" />
+      <workItem from="1663214041992" duration="25000" />
+      <workItem from="1663402359377" duration="43000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/drugsys3$drugsys3.ic" NAME="drugsys3 Coverage Results" MODIFIED="1661652269172" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
